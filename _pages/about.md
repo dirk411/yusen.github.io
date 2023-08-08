@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Systems Engineering, Ira A. Fulton School of Engineering, Arizona State University. I research in the field of Robotics for Rehabilitation Application. I am advised by Dr. Sangram Redkar and Dr. Thomas Sugar in the Robotics, Bionics, Dynamical Systems & Controls Group. I received my Master of Science (MS) degree in Mechanical Engineering from the Ira A. Fulton School of Engineering, Arizona State University and my Bachelor of Engineering (BE) Degree in Mechanical Engineering from the University of Mumbai.
+I am a Ph.D. student in the thrust of Internet of Things. I research in the field of Mobile computing and wireless sensing. I am advised by Dr. Zijun Gong. I received my Master of Philosophy (MPhil) degree in Computer Science from the Beijing Institute of Technology and my Bachelor's Degree in Computer Science from Jilin University.
