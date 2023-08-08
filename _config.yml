@@ -85,9 +85,9 @@ author:
   bio              : "Ph.D student, Thrust of Internet of Things, The Hong Kong University of Science and Technology (Guangzhou)"
   location         : "Guangzhou, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "ywang472@connect.hkust-gz.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
