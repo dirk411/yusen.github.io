@@ -18,4 +18,7 @@ Sign Language”, IEEE Internet of Things Journal (JCR Q1, IF:10.238)
 
 # Awards
 
-
+# Skills
+languages: C++, Python, Matlab
+Foreign Language: IELTS(7), CET6(541), JLPT N2
+Research area: Wireless sensing, Mobile computing, Acoustic sensing.
