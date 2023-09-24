@@ -12,6 +12,10 @@ I am a Ph.D. student in the thrust of Internet of Things, The Hong Kong Universi
 
 # Publication
 
+Yusen Wang, Fan Li, Yadong Xie, Chunhui Duan, Yu Wang, ”HearASL: Your Smartphone Can Hear American
+Sign Language”, IEEE Internet of Things Journal (JCR Q1, IF:10.238)
+
+
 # Awards
 
 
